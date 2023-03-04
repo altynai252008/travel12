@@ -1,0 +1,68 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+.header{
+    background-image: url(./Vector\ \(3\).png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.block1{
+    position: absolute;
+    right: 160px;
+    display: flex;
+
+}
+.text{
+    
+    padding-top: 250px;
+    padding-left: 50px;
+    width: 288px;
+}
+.button{
+    background: linear-gradient(215.31deg,
+     #F9F0C3 9.73%, #EFBB03 71.72%);
+border-radius: 100px;
+padding: 15px 60px;
+border-radius: 100px;
+}
+.block2{
+   
+    display: flex;
+}
+.img2{
+    padding-left: 163px;
+}
+.inner1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #31456A;
+}
+.inner2{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #31456A;
+
+}
+.inner3{
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+color: #31456A;
+}
+
